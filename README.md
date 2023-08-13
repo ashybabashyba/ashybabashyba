@@ -1,4 +1,4 @@
-### Physicist and mathematician passionate about computational electromagnetism, quantum tech, and numerical analysis.
+### 👋 Hello there! I'm Carlos J. Ramos Salas, a physicist and mathematician with a passion for computational electromagnetism, quantum computing, numerical analysis, and applied science. I completed my undergraduate studies in Physics and Mathematics at the National University of Colombia and I'm currently pursuing my Master's degree in Physics and Mathematics at the University of Granada.
 
 <!--
 **ashybabashyba/ashybabashyba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
