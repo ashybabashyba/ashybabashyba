@@ -1,4 +1,4 @@
-### 👋 Hello there! I'm Carlos J. Ramos Salas, a physicist and mathematician with a passion for computational electromagnetism, quantum computing, numerical analysis, and applied science. I completed my undergraduate studies in Physics and Mathematics at the National University of Colombia and I'm currently pursuing my Master's degree in Physics and Mathematics at the University of Granada.
+### 👋 Hello there! I'm Carlos J. Ramos Salas, a physicist and mathematician with a passion for computational electromagnetism, quantum computing, numerical analysis, and applied science. I completed my undergraduate studies in Physics and Mathematics at the National University of Colombia and my Master's degree in Physics and Mathematics at the University of Granada.
 
 -🥉 Third place at 2022 Colombian Quantum Fall Fest Hackathon as part of "Team Gatos Salvajes" with the project "Random Graphs Using Quantum Computing".
 
